@@ -3,33 +3,33 @@
 <div class="page-title-cont page-title-big grey-light-bg">
     <div class="relative container align-left">
       <div class="row">
-         
+
         <div class="col-md-8">
           <h1 class="page-title">CONTACT</h1>
           <div class="page-sub-title">
             Lorem ipsum dolor sit amet, consectetur elit
           </div>
         </div>
-         
+
         <div class="col-md-4">
           <div class="breadcrumbs">
             <a href="index.html">Home</a><span class="slash-divider">/</span><a href="#">PAGES</a><span class="slash-divider">/</span><span class="bread-current">CONTACT</span>
           </div>
         </div>
-        
+
       </div>
     </div>
   </div>
-  
+
     <!-- GOOGLE MAP & CONTACT FORM -->
     <div class="page-section">
       <div class="container-fluid">
         <div class="row">
-        
+
           <div class="col-md-6">
             <div class="row">
               <!-- <div data-address="580 California Street, San Francisco, CA" id="google-map"></div> -->
-          
+
           <!-- *This is an example of using latitude and longitude if you need to use them instead of an address. Read more in the documentation.* -->
           <div data-latitude="37.792888" data-longitude="-122.404041" id="google-map"></div>
             </div>
@@ -41,32 +41,49 @@
               <div class="mb-40">
                 <h2 class="section-title">CONTACT <span class="bold">US</span></h2>
               </div>
-                            
+
               <!-- CONTACT FORM -->
               <div>
-                <form id="contact-form" action="php/contact-form.php" method="POST">
-                
-                  <div class="row">
+              <form id="contact-form" action="{{ route('store.contact') }}" method="POST">
+                @csrf
+                <input type="hidden" name="web_url" value="{{ url('/') }}">
+                <div class="row">
                     <div class="col-md-12 mb-30">
                       <!-- <label>Your name *</label> -->
                       <input type="text" value="" data-msg-required="Please enter your name" maxlength="100" class="controled" name="name" id="name" placeholder="NAME" required>
                     </div>
                   </div>
-                  
-                  <div class="row">    
+
+                  <div class="row">
                     <div class="col-md-12 mb-30">
                       <!-- <label>Your email address *</label> -->
                       <input type="email" value="" data-msg-required="Please enter your email address" data-msg-email="Please enter a valid email address" maxlength="100" class="controled" name="email" id="email" placeholder="EMAIL" required>
                       </div>
                   </div>
-              
+
+                  <div class="row">
+                    <div class="col-md-12 mb-30">
+                      <!-- <label>Your email address *</label> -->
+                      <input type="text" value="" data-msg-required="Please enter your phone number, Ex: 628123456789" data-msg-required="Please enter a valid phone number" maxlength="100" class="controled" name="phone" id="phone" placeholder="PHONE : 628123456789" required>
+                      </div>
+                  </div>
+
                   <div class="row">
                     <div class="col-md-12 mb-40">
                       <!-- <label>Message *</label> -->
                       <textarea maxlength="5000" data-msg-required="Please enter your message" rows="3" class="controled" name="message" id="message" placeholder="MESSAGE" required></textarea>
                     </div>
                   </div>
-                  
+
+                  <div class="row">
+                      <div class="col-md-12 mb-30">
+                          <select name="category" class="controled">
+                              <option value="other">Other</option>
+                              <option value="kritik">Kritik dan Saran</option>
+                              <option value="daftar">Daftar Mitra Kerja PT. LIMA BANGUN PERSADA</option>
+                          </select>
+                      </div>
+                  </div>
                   <div class="row">
                     <div class="col-md-12 text-center-xxs">
                       <input type="submit" value="SEND MESSAGE" class="button medium gray" data-loading-text="Loading...">
@@ -79,31 +96,30 @@
                       </div>
                     </div>
                   </div>
-                  
-                </form>	
+                </form>
                 <div class="alert alert-success hidden animated fadeIn" id="contactSuccess" >
                   Thanks, your message has been sent to us.
                 </div>
-              
+
                 <div class="alert alert-danger hidden animated shake" id="contactError">
                   <strong>Error!</strong> There was an error sending your message.
                 </div>
               </div>
             </div>
           </div>
-            
+
         </div>
       </div>
     </div>
-    
+
     <!-- DIVIDER -->
-    <hr class="mt-0 mb-0">          
-    
+    <hr class="mt-0 mb-0">
+
     <!-- CONTACT INFO SECTION 1 -->
     <div id="contact-link" class="page-section p-110-cont grey-light-bg">
       <div class="container">
         <div class="row">
-        
+
           <div class="col-md-4 col-sm-6">
             <div class="cis-cont">
               <div class="cis-icon">
@@ -137,8 +153,8 @@
               </div>
             </div>
           </div>
-          
+
         </div>
-      </div>        
+      </div>
     </div>
 @endsection

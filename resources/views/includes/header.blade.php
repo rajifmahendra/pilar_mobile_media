@@ -106,18 +106,13 @@
 
                   <!-- LAYER NR. 1 -->
                   <div class="font-white light-72-wide sm-mb-15 sm-mt-20" >
-                  WE ARE <span class="bold">HASWELL</span>
+                  <span class="bold">PT. PILAR MOBILE MEDIA</span>
                   </div>
 
                   <!-- LAYER NR. 2 -->
-                  <div class="font-white norm-16-wide hide-0-736 sm-mb-50">
-      BRANDING<span class="slash-divider-10">/</span>DESIGN<span class="slash-divider-10">/</span>DEVELOPMENT<span class="slash-divider-10">/</span>PHOTO
-                  </div>
+                 
 
                 <!-- LAYER NR. 3 -->
-                  <div class="center-0-478">
-      <a class="button medium thin hover-dark tp-button white" href="https://1.envato.market/a1gQR">SEE MORE</a><a class="button medium thin hover-dark tp-button white ml-20" href="https://1.envato.market/GVZ26">BUY NOW</a>
-                  </div>
 
                 </div>
 

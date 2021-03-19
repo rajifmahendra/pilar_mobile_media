@@ -98,26 +98,7 @@
     
 <!-- STATIC MEDIA IMAGE -->
 <div class="sm-img-bg-fullscr parallax-section" style="background-image: url(images/static-media/arc.jpg)" data-stellar-background-ratio="0.5">
-<div class="container sm-content-cont text-center js-height-fullscr">
-<div class="sm-cont-middle">
-
-                <!-- OPACITY container -->
-                <div class="opacity-scroll2">
-
-                  <!-- LAYER NR. 1 -->
-                  <div class="font-white light-72-wide sm-mb-15 sm-mt-20" >
-                  <span class="bold">PT. PILAR MOBILE MEDIA</span>
-                  </div>
-
-                  <!-- LAYER NR. 2 -->
-                 
-
-                <!-- LAYER NR. 3 -->
-
-                </div>
-
-</div>
-</div>
+  
 <!-- SCROLL ICON -->
         <div class="local-scroll-cont font-white">
             <a href="#about" class="scroll-down smooth-scroll">

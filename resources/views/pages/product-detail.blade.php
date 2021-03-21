@@ -1,4 +1,5 @@
 @extends('layouts.index')
+@section('title', 'PT. PILAR MOBILE MEDIA')
 @section('product', 'current')
 @section('page-title')
 <div class="page-title-cont page-title-small main-bg-color">

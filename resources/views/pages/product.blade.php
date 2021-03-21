@@ -1,4 +1,5 @@
 @extends('layouts.index')
+@section('title', 'PT. PILAR MOBILE MEDIA')
 @section('content')
 <div class="main-bg-color plr-30 plr-0-767 clearfix">
   <div class="white-bg plr-30 pt-50 pb-20">

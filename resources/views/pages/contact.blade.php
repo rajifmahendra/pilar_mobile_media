@@ -1,4 +1,5 @@
 @extends('layouts.index')
+@section('title', 'PT. PILAR MOBILE MEDIA')
 @section('content')
 <div class="page-title-cont page-title-big grey-light-bg">
     <div class="relative container align-left">

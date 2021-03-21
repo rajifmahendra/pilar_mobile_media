@@ -10,10 +10,10 @@
       <div class="col-md-6 col-md-offset-6 fes7-text-cont p-80-cont">
         <h1><span class="font-light" style="color: black">TENTANG KAMI</span></h1>
         <p class="mb-30">
-          PT. STARS YUDHATAMA adalah perusahaan yang bergerak dibidang jasa Event Organizer, Penyelenggaraan Pertemuan, Perjalanan Insentif, Konferensi dan Pameran, Penerbitan Surat Kabar, Jurnal dan Buletin atau Majalah, Produksi Film, Video dan Program Televisi, Periklanan, yang didirikan pada 15 Mei 2002 oleh praktisi yang berpengalaman dibidangnya masing-masing.
+          Berdiri Sejak 11 Februari 2016 PT. PIlAR MOBILE MEDIA Menyediakan Jasa Event Organizer, Mice(Meeting, Incentives, Conference, Exhibitions), Advertising, Talk Show. Dengan Kemampuan Multimedia Disetiap Bidangnya Yang Lain.
         </p>
         <p>
-          Dengan jaringan yang luas, profesionalisme kerja serta komitmen atas setiap pelayanannya, kami percaya mampu memberikan jasa yang berkualitas, konsisten dan memiliki nilai tambah demi tercapainya tujuan bersama. Didukung oleh tim yang memiliki kompetensi tinggi. PT. Stars Yudhatama memberikan berbagai jasa atas dasar prinsip kemitraan, dimana kepuasa mitra adalah segalanya tanpa menghiraukan tujuan utama dari kegiatan usaha itu sendir
+          Kami Telah Sangat Berpengalaman dan Expert Dibidang Ini Serta Memiliki Team Yang Solid dan Kreatif, Karena Team Kami Sudah Ratusan Kali Mengadakan Event Untuk Perusahaan - Perusahaan Besar Baik di Jakarta Maupun di Wilayah Lainnya di Indonesia. Team Kami Telah Dipercaya Oleh Banyak Perusahaan - Perusahaan Untuk Menangani Event - Event Yang Berskala Nasional Serta Karya dan Kreasi Kami Telah Dinilai Oleh Klien - Klient Kami Sangat Kreatif dan Fantastis, Sehingga Seluruh Klien Kami Merasa Puas dengan Pelayanan dan Kreativitas Team Kami.
         </p>
       </div>
     </div>
@@ -30,7 +30,7 @@
           </div>
           <div class="line-3-70"></div>
           <div class="fes2-text-cont" style="font-size: 24px; line-height: 30px">
-            <span class="bold main-text-color">Visi</span> kami adalah menjadi penyedia yang terdepan dalam bidang jasa dengan selalu memberikan solusi yang inovatif sehingga setiap mitra kami mampu bersaing dalam skala nasional maupun internasional.
+            <span class="bold main-text-color">Visi</span> Menjadi Penyedia Produk Layanan Berkualitas Tinggi dan Layanan Dengan Harga Kompetitif, Berkomitmen Untuk Transparan dan Dapat Diandalkan Dipercaya Dalam Bekerja Kepada Semua Klien dan Pemangku Kepentingan
           </div>
         </div>
       </div>
@@ -54,29 +54,7 @@
           </div>
           <div class="line-3-100"></div>
           <div class="fes2-text-cont" style="font-size: 24px; line-height: 30px">
-            <span class="bold main-text-color">Misi</span> kami adalah memberikan pelayanan jasa terbaik dengan nilai tambah kepada setiap mitra yang menjalin kerja sama dengan kami berdasarkan prinsip-prinsip sebagai berikut :
-            <ul class="icon-list mt-20" style="font-size: 16px">
-              <li>
-                <i class="fa fa-check"></i>
-                Berorientasi kemitraan
-              </li>
-              <li>
-                <i class="fa fa-check"></i>
-                Efektifitas dan efisiensi atas solusi
-              </li>
-              <li>
-                <i class="fa fa-check"></i>
-                Inovasi yang berkesinambungan
-              </li>
-              <li>
-                <i class="fa fa-check"></i>
-                Kualitas dan profrsionalisme kerja yang tinggi
-              </li>
-              <li>
-                <i class="fa fa-check"></i>
-                Komitmen dalam setiap pelayanan
-              </li>
-            </ul>
+            <span class="bold main-text-color">Misi</span> Menjadi Perusahaan Yang Berkomitmen dan Selalu Menyediakan Layanan Terbaik dan Dapat Diandalkan di Indonesia Dari Bidang Yang Kami Sediakan Untuk Bekerja Sama Dengan Baik
           </div>
         </div>
       </div>
@@ -94,7 +72,7 @@
   <div class="container">
     <div class="row">
       <div class="col-xs-12">
-        <h1 class="text-center mt-0 mb-110" style="font-size: 48px"><span class="bold main-text-color">Layanan</span> Kami</h1>
+        <h1 class="text-center mt-0 mb-110" style="font-size: 48px"><span class="bold main-text-color">Jasa Terbaik</span> Untuk Client</h1>
       </div>
     </div>
     <div class="row">

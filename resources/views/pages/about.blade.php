@@ -82,7 +82,8 @@
             <div class="fes8-box-icon">
               <div class="icon icon-basic-paperplane"></div>
             </div>
-            <h3>Penyedia Pariwisata</h3>
+            <h3>Tempat Yang Sangat Berintegrasi Untuk Tempat Promosi Pemasaran : </h3>
+            <p>Mulai Dari Perusahaan Dengan Tempat Seperti Mall, Kantor, Kampus, Tempat Persiapan, Profesional SPG Tempat Kegiatan Untuk Menarik Perhatian Pengunjung, Hiburan, Gala Dinner, Outbond, Dokumentasi Acara Dan Membantu Untuk Meningkatkan Target Selama Acara Berlangsung</p>
           </div>
         </div>
       </div>
@@ -92,7 +93,8 @@
             <div class="fes8-box-icon">
               <div class="icon icon-basic-paperplane"></div>
             </div>
-            <h3>Penyedia Transportasi & Ticketing</h3>
+            <h3>Sales Force Untuk Menjual Produk : </h3>
+            <p>Time Sales Forces Yang Terlatih Dengan Baik Akan Melalukan Tugas Penjualan Seperti Pengadaan dan Peminjaman Produk Untuk Membantu Klien Dalam Meningkatkan Targer</p>
           </div>
         </div>
       </div>
@@ -102,83 +104,21 @@
             <div class="fes8-box-icon">
               <div class="icon icon-basic-paperplane"></div>
             </div>
-            <h3>Penerbitan Surat Kabar, Jurnal & Buletin atau Majalah</h3>
+            <h3>Pengelolaan Hadian : </h3>
+            <p>Membuat, Memproduksi Kebutuhan Promosi, Hadian dan Souvenir Untuk Mendukung Acara Termaksud Pengelolaan Persediaan dan Pengantaran</p>
           </div>
         </div>
       </div>
     </div>
     <div class="row">
       <div class="col-xs-12 col-sm-4 col-md-4">
-        <div class="fes8-box wow fadeIn" data-wow-delay="600ms">
+        <div class="fes8-box wow fadeIn">
           <div class="fes8-title-cont" >
             <div class="fes8-box-icon">
               <div class="icon icon-basic-paperplane"></div>
             </div>
-            <h3>Produksi Film, Video & Program Televisi</h3>
-          </div>
-        </div>
-      </div>
-      <div class="col-xs-12 col-sm-4 col-md-4">
-        <div class="fes8-box wow fadeIn" data-wow-delay="800ms" >
-          <div class="fes8-title-cont" >
-            <div class="fes8-box-icon">
-              <div class="icon icon-basic-paperplane"></div>
-            </div>
-            <h3>Distribusi Film, Video & Program Televisi</h3>
-          </div>
-        </div>
-      </div>
-      <div class="col-xs-12 col-sm-4 col-md-4">
-        <div class="fes8-box wow fadeIn" data-wow-delay="1000ms">
-          <div class="fes8-title-cont" >
-            <div class="fes8-box-icon">
-              <div class="icon icon-basic-paperplane"></div>
-            </div>
-            <h3>Periklanan</h3>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-xs-12 col-sm-4 col-md-4">
-        <div class="fes8-box wow fadeIn" data-wow-delay="600ms">
-          <div class="fes8-title-cont" >
-            <div class="fes8-box-icon">
-              <div class="icon icon-basic-paperplane"></div>
-            </div>
-            <h3>Penyewaan & Sewa Guna Mobil, Bus, Truk & Sejenisnya</h3>
-          </div>
-        </div>
-      </div>
-      <div class="col-xs-12 col-sm-4 col-md-4">
-        <div class="fes8-box wow fadeIn" data-wow-delay="600ms">
-          <div class="fes8-title-cont" >
-            <div class="fes8-box-icon">
-              <div class="icon icon-basic-paperplane"></div>
-            </div>
-            <h3>Event Organizer</h3>
-          </div>
-        </div>
-      </div>
-      <div class="col-xs-12 col-sm-4 col-md-4">
-        <div class="fes8-box wow fadeIn" data-wow-delay="1000ms">
-          <div class="fes8-title-cont" >
-            <div class="fes8-box-icon">
-              <div class="icon icon-basic-paperplane"></div>
-            </div>
-            <h3>Penyelenggaraan Pertemuan, Perjalanan Insentif, Konferensi & Pameran</h3>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-xs-12 col-sm-4 col-md-4">
-        <div class="fes8-box wow fadeIn" data-wow-delay="800ms" >
-          <div class="fes8-title-cont" >
-            <div class="fes8-box-icon">
-              <div class="icon icon-basic-paperplane"></div>
-            </div>
-            <h3>Penyediaan Sumber Daya Manusia & Manajemen Fungsi Sumber Daya Manusia</h3>
+            <h3>Penyimpanan : </h3>
+            <p>Mengatur Persediaan Merchendice dan Toko di Gudang PILAR MOBILE MEDIA</p>
           </div>
         </div>
       </div>

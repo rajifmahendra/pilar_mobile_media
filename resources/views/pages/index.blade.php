@@ -1,4 +1,5 @@
 @extends('layouts.index')
+@section('title', 'PT. PILAR MOBILE MEDIA')
 @section('content')
 
 <div id="about" class="page-section">
@@ -74,7 +75,7 @@
               <div class="icon icon-basic-share main-text-color"></div>
             </div>
             <p>
-              Penyusunan Dokumen Rencama Kerja - Kementerian/Lembaga (Renja-KL) Direktprat Jenderal Mineral dan Batubara
+              Bendahara Pengeluaran Sekretariat Badan Bekraf - Pengembangan Publikasi Produk Kreatif Dalam Rangka Pelaku Kreatif Yang Diberikan Pembinaan Pengembangan Pasar Dalam Negeri Di Hotel Akmani
             </p>
           </div>
         </div>
@@ -86,7 +87,7 @@
               <div class="icon icon-basic-share main-text-color"></div>
             </div>
             <p>
-              Penyusunan Bahan Rapat Ditjen Mineral dan Batubara dengan Komisi IVV DPR RI & DPD RI
+              Direktorat Jenderal Mineral Dan Batubara - Koordinasi dan Sinkronisasi Program Kegiatan Direktorat Jenderal Mineral dan Batubara
             </p>
           </div>
         </div>
@@ -100,83 +101,7 @@
               <div class="icon icon-basic-share main-text-color"></div>
             </div>
             <p>
-              Penyusunan Bahan Rapat Rakor Kementerian ESDM & Sidang Kabinet
-            </p>
-          </div>
-        </div>
-      </div>
-      <div class="col-xs-12 col-sm-4 col-md-4">
-        <div class="fes4-box wow fadeIn" data-wow-delay="800ms" >
-          <div class="fes4-title-cont" >
-            <div class="fes4-box-icon">
-              <div class="icon icon-basic-share main-text-color"></div>
-            </div>
-            <p>
-              Penyusunan Laporan Tahunan Direktorat Jenderal Mineral & Batubara
-            </p>
-          </div>
-        </div>
-      </div>
-      <div class="col-xs-12 col-sm-4 col-md-4">
-        <div class="fes4-box wow fadeIn" data-wow-delay="1000ms">
-          <div class="fes4-title-cont" >
-            <div class="fes4-box-icon">
-              <div class="icon icon-basic-share main-text-color"></div>
-            </div>
-            <p>
-              Evaluasi Pencapaian Kinerja Ditjen Mineral & Batubara
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-xs-12 col-sm-4 col-md-4">
-        <div class="fes4-box wow fadeIn" data-wow-delay="600ms">
-          <div class="fes4-title-cont" >
-            <div class="fes4-box-icon">
-              <div class="icon icon-basic-share main-text-color"></div>
-            </div>
-            <p>
-              Pengadaan ATK Tim Fasilitas Kegiatan Operasional Pejabat Pembuat Komitmen (PPK)
-            </p>
-          </div>
-        </div>
-      </div>
-      <div class="col-xs-12 col-sm-4 col-md-4">
-        <div class="fes4-box wow fadeIn" data-wow-delay="800ms" >
-          <div class="fes4-title-cont" >
-            <div class="fes4-box-icon">
-              <div class="icon icon-basic-share main-text-color"></div>
-            </div>
-            <p>
-              Belanja Bahan Persiapan Penyusunan Modul Pembinaan Pengembangan Publikasi Produk Kreatif Kegiatan Pembinaan
-            </p>
-          </div>
-        </div>
-      </div>
-      <div class="col-xs-12 col-sm-4 col-md-4">
-        <div class="fes4-box wow fadeIn" data-wow-delay="1000ms">
-          <div class="fes4-title-cont" >
-            <div class="fes4-box-icon">
-              <div class="icon icon-basic-share main-text-color"></div>
-            </div>
-            <p>
-              Pengembangan Publikasi Produk Kreatif Dalam Rangka Pelaku Kreatif yang Diberikan Pembinaan Pengemabangan Pasar Dalam Negeri
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-xs-12 col-sm-4 col-md-4 mb-0">
-        <div class="fes4-box wow fadeIn" data-wow-delay="600ms">
-          <div class="fes4-title-cont" >
-            <div class="fes4-box-icon">
-              <div class="icon icon-basic-share main-text-color"></div>
-            </div>
-            <p>
-              Belanja Bahan Persiapan Kegiatan Pendukung Pengembangan Pasar Kreatif Dalam Negeri dalam Rangka Pendukung Kegiatan Pelaku Kretif Terkait Pengembangan Pasar Dalam Negeri.
+              Direktorat Jenderal Mineral Dan Batubara - Koordinasi dan Sinkronisasi Program Kegiatan Direktorat Jenderal Mineral dan Batubara
             </p>
           </div>
         </div>

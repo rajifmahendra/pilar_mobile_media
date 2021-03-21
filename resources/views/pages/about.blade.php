@@ -6,9 +6,9 @@
     <div class="fes7-img" style="background-image: url({{ asset('images/about-us.jpg') }})"></div>
   </div>
   <div class="container">
-    <div class="row main-bg-color" style="color: #fff">
+    <div class="row main-bg-color" style="color: black">
       <div class="col-md-6 col-md-offset-6 fes7-text-cont p-80-cont">
-        <h1><span class="font-light" style="color: #fff">TENTANG KAMI</span></h1>
+        <h1><span class="font-light" style="color: black">TENTANG KAMI</span></h1>
         <p class="mb-30">
           PT. STARS YUDHATAMA adalah perusahaan yang bergerak dibidang jasa Event Organizer, Penyelenggaraan Pertemuan, Perjalanan Insentif, Konferensi dan Pameran, Penerbitan Surat Kabar, Jurnal dan Buletin atau Majalah, Produksi Film, Video dan Program Televisi, Periklanan, yang didirikan pada 15 Mei 2002 oleh praktisi yang berpengalaman dibidangnya masing-masing.
         </p>
@@ -37,7 +37,7 @@
       <div class="col-md-6">
         <div class="row">
           <div class="fes2-img equal-height main-bg-color">
-            <img src="{{ asset('images/visi.jpg') }}" alt="visi">
+            <img src="{{ asset('images/visi.jpeg') }}" alt="visi">
           </div>
         </div>
       </div>
@@ -83,7 +83,7 @@
       <div class="col-md-6 right-50">
         <div class="row">
           <div class="fes3-img equal-height main-bg-color">
-            <img src="{{ asset('images/misi.jpg') }}" alt="misi">
+            <img src="{{ asset('images/misi.jpeg') }}" alt="misi">
           </div>
         </div>
       </div>
@@ -207,7 +207,7 @@
     </div>
   </div>
 </div>
-<div class="page-section fes4-cont main-bg-color" id="pengalaman" style="color: #fff">
+<div class="page-section fes4-cont main-bg-color" id="pengalaman" style="color: black">
   <div class="container">
     <div class="row">
       <div class="col-xs-12">

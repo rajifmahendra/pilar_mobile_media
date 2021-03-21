@@ -1,39 +1,129 @@
 @extends('layouts.index')
 @section('content')
-    <div class="main-bg-color plr-30 plr-0-767 clearfix">
-        <div class="white-bg plr-30 pt-50 pb-20">
-            <div class="relative">
-                <div class="row">
-                    @if($contents->isNotEmpty())
-                        @foreach($contents as $content)
-                            <div class="col-sm-6 col-md-3 col-lg-3 wow fadeIn pb-70">
-                                <div class="post-prev-more-cont clearfix">
-                                    <div class="shop-add-btn-cont">
-                                        <button type="button"  class="button medium primary-light shop-add-btn" data-toggle="modal" data-target="#modal{{$content->id}}">
-                                            <b>{{ $content->original_name }}</b>
-                                        </button>
-                                        <div class="modal fade bd-example-modal-lg" id="modal{{$content->id}}" tabindex="-1" role="dialog" aria-hidden="true">
-                                            <div class="modal-dialog modal-lg" role="document">
-                                                <div class="modal-content">
-                                                    <div class="modal-header">
-                                                        <button type="button" class="close close-modal" data-dismiss="modal" aria-label="Close">
-                                                            <span aria-hidden="true">&times;</span>
-                                                        </button>
-                                                    </div>
-                                                    <div class="modal-body">
-                                                        <iframe src="{{ env('MBS_URL').'/'.'show-pdf?pdf_file='.$content->content }}" width="100%" height="480">
-                                                        </iframe>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        @endforeach
-                    @endif
-                </div>
+<div class="main-bg-color plr-30 plr-0-767 clearfix">
+    <div class="white-bg plr-30 pt-50 pb-20">
+      <div class="relative">
+        <ul class="port-grid port-grid-gut clearfix" id="items-grid">
+          <li class="port-item mix development lightbox" href="{{ asset('template/images/portfolio/projects-5-box.jpg') }}">
+            <a href="javascript:;">
+              <div class="port-img-overlay"><img class="port-main-img" src="{{ asset('template/images/portfolio/projects-5-box.jpg') }}" alt="img" ></div>
+            </a>
+            <div class="port-overlay-cont">
+              <div class="port-title-cont">
+                <h3><a href="{{ asset('template/images/portfolio/projects-5-box.jpg') }}">MINIMALISM BOOKS</a></h3>
+              </div>
+              <div class="port-btn-cont">
+                <a href="{{ asset('template/images/portfolio/projects-5-box.jpg') }}" class="lightbox mr-20" ><div aria-hidden="true" class="icon_search"></div></a>
+              </div>
             </div>
-        </div>
+          </li>
+          <li class="port-item mix design lightbox" href="{{ asset('template/images/portfolio/projects-5-box.jpg') }}">
+            <a href="javascript:;">
+              <div class="port-img-overlay">
+                <img class="port-main-img" src="{{ asset('template/images/portfolio/projects-5-box.jpg') }}" alt="img" >
+              </div>
+            </a>
+            <div class="port-overlay-cont">
+              <div class="port-title-cont">
+                <h3><a href="{{ asset('template/images/portfolio/projects-5-box.jpg') }}">CALENDAR</a></h3>
+              </div>
+              <div class="port-btn-cont">
+                <a href="{{ asset('template/images/portfolio/projects-5-box.jpg') }}" class="lightbox mr-20" ><div aria-hidden="true" class="icon_search"></div></a>
+              </div>
+            </div>
+          </li>
+          <li class="port-item mix photography lightbox" href="{{ asset('template/images/portfolio/projects-5-box.jpg') }}">
+            <a href="javascript:;">
+              <div class="port-img-overlay">
+                <img class="port-main-img" src="{{ asset('template/images/portfolio/projects-5-box.jpg') }}" alt="img" >
+              </div>
+            </a>
+            <div class="port-overlay-cont">
+              <div class="port-title-cont">
+                <h3><a href="{{ asset('template/images/portfolio/projects-5-box.jpg') }}">EYES OF THE CAR</a></h3>
+              </div>
+              <div class="port-btn-cont">
+                <a href="{{ asset('template/images/portfolio/projects-5-box.jpg') }}" class="lightbox mr-20" ><div aria-hidden="true" class="icon_search"></div></a>
+              </div>
+            </div>
+          </li>
+          <li class="port-item mix development lightbox" href="{{ asset('template/images/portfolio/projects-5-box.jpg') }}">
+            <a href="javascript:;">
+              <div class="port-img-overlay">
+                <img class="port-main-img" src="{{ asset('template/images/portfolio/projects-5-box.jpg') }}" alt="img" >
+              </div>
+            </a>
+            <div class="port-overlay-cont">
+              <div class="port-title-cont">
+                <h3><a href="{{ asset('template/images/portfolio/projects-5-box.jpg') }}">NOW IS NOW</a></h3>
+              </div>
+              <div class="port-btn-cont">
+                <a href="{{ asset('template/images/portfolio/projects-5-box.jpg') }}" class="lightbox mr-20" ><div aria-hidden="true" class="icon_search"></div></a>
+              </div>
+            </div>
+          </li>
+          <li class="port-item mix development lightbox" href="{{ asset('template/images/portfolio/projects-5-box.jpg') }}">
+            <a href="javascript:;">
+              <div class="port-img-overlay">
+                <img class="port-main-img" src="{{ asset('template/images/portfolio/projects-5-box.jpg') }}" alt="img" >
+              </div>
+            </a>
+            <div class="port-overlay-cont">
+              <div class="port-title-cont">
+                <h3><a href="{{ asset('template/images/portfolio/projects-5-box.jpg') }}">NOW IS NOW</a></h3>
+              </div>
+              <div class="port-btn-cont">
+                <a href="{{ asset('template/images/portfolio/projects-5-box.jpg') }}" class="lightbox mr-20" ><div aria-hidden="true" class="icon_search"></div></a>
+              </div>
+            </div>
+          </li>
+          <li class="port-item mix development lightbox" href="{{ asset('template/images/portfolio/projects-5-box.jpg') }}">
+            <a href="javascript:;">
+              <div class="port-img-overlay">
+                <img class="port-main-img" src="{{ asset('template/images/portfolio/projects-5-box.jpg') }}" alt="img" >
+              </div>
+            </a>
+            <div class="port-overlay-cont">
+              <div class="port-title-cont">
+                <h3><a href="{{ asset('template/images/portfolio/projects-5-box.jpg') }}">NOW IS NOW</a></h3>
+              </div>
+              <div class="port-btn-cont">
+                <a href="{{ asset('template/images/portfolio/projects-5-box.jpg') }}" class="lightbox mr-20" ><div aria-hidden="true" class="icon_search"></div></a>
+              </div>
+            </div>
+          </li>
+          <li class="port-item mix design lightbox" href="{{ asset('template/images/portfolio/projects-5-box.jpg') }}">
+            <a href="javascript:;">
+              <div class="port-img-overlay">
+                <img class="port-main-img" src="{{ asset('template/images/portfolio/projects-5-box.jpg') }}" alt="img" >
+              </div>
+            </a>
+            <div class="port-overlay-cont">
+              <div class="port-title-cont">
+                <h3><a href="{{ asset('template/images/portfolio/projects-5-box.jpg') }}">EYES OF THE CAR</a></h3>
+              </div>
+              <div class="port-btn-cont">
+                <a href="{{ asset('template/images/portfolio/projects-5-box.jpg') }}" class="lightbox mr-20" ><div aria-hidden="true" class="icon_search"></div></a>
+              </div>
+            </div>
+          </li>
+          <li class="port-item mix photography lightbox" href="{{ asset('template/images/portfolio/projects-5-box.jpg') }}">
+            <a href="javascript:;">
+              <div class="port-img-overlay">
+                <img class="port-main-img" src="{{ asset('template/images/portfolio/projects-5-box.jpg') }}" alt="img" >
+              </div>
+            </a>
+            <div class="port-overlay-cont">
+              <div class="port-title-cont">
+                <h3><a href="{{ asset('template/images/portfolio/projects-5-box.jpg') }}">EYES OF THE CAR</a></h3>
+              </div>
+              <div class="port-btn-cont">
+                <a href="{{ asset('template/images/portfolio/projects-5-box.jpg') }}" class="lightbox mr-20" ><div aria-hidden="true" class="icon_search"></div></a>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </div>
     </div>
+  </div>
 @endsection

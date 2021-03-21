@@ -129,7 +129,7 @@
   <div class="container">
     <div class="row">
       <div class="col-xs-12">
-        <h1 class="text-center mt-0 mb-110" style="font-size: 48px"><span class="bold">Pengalaman</span> Kami</h1>
+        <h1 class="text-center mt-0 mb-110" style="font-size: 48px"><span class="bold">Pengalaman</span> Perusahaan</h1>
       </div>
     </div>
     <div class="row">
@@ -139,12 +139,9 @@
             <div class="fes8-box-icon">
               <div class="icon icon-basic-paperplane"></div>
             </div>
-            <h3>Rp.389.196.500</h3>
+            <h3>Bendahara Pengeluaran Sekretariat Badan Bekraf</h3>
             <div>
-              Belanja Jasa Konsultasi Event
-              Organizer Kegiatan Pelaksanaan
-              Event-Event Lingkungan Hidup
-              2011
+               Pengembangan Publikasi Produk Kreatif Dalam Rangka Pelaku Kreatif Yang Diberikan Pembinaan Pengembangan Pasar Dalam Negeri Di Hotel Akmani
             </div>
           </div>
         </div>
@@ -155,10 +152,9 @@
             <div class="fes8-box-icon">
               <div class="icon icon-basic-paperplane"></div>
             </div>
-            <h3>Rp.647.115.600,-</h3>
+            <h3>Direktorat Jenderal Mineral Dan Batubara</h3>
             <div>
-              Kemitraan Dengan Media Massa (Dialog
-              TV 7 Kali dan Dialog Radio 14 Kali
+              Koordinasi dan Sinkronisasi Program Kegiatan Direktorat Jenderal Mineral dan Batubara
             </div>
           </div>
         </div>
@@ -169,278 +165,9 @@
             <div class="fes8-box-icon">
               <div class="icon icon-basic-paperplane"></div>
             </div>
-            <h3>Rp.2.022.460.000,-</h3>
+            <h3>Direktorat Jenderal Mineral Dan Batubara</h3>
             <div>
-              Tayangan Kampanye Perubahan Iklim di Televisi 2010
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-xs-12 col-sm-4 col-md-4">
-        <div class="fes8-box wow fadeIn" data-wow-delay="600ms">
-          <div class="fes8-title-cont" >
-            <div class="fes8-box-icon">
-              <div class="icon icon-basic-paperplane"></div>
-            </div>
-            <h3>Rp.994.400.000,-</h3>
-            <div>
-              TV Magazine Jakarta untuk Semua
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="col-xs-12 col-sm-4 col-md-4">
-        <div class="fes8-box wow fadeIn" data-wow-delay="800ms" >
-          <div class="fes8-title-cont" >
-            <div class="fes8-box-icon">
-              <div class="icon icon-basic-paperplane"></div>
-            </div>
-            <h3>Rp.1.150.737.500,-</h3>
-            <div>
-              Visualisasi dan Publikasi Kegiatan
-              Program Pemberdayaan Masyarakat
-              dan Desa di Pusat & Daerah
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="col-xs-12 col-sm-4 col-md-4">
-        <div class="fes8-box wow fadeIn" data-wow-delay="1000ms">
-          <div class="fes8-title-cont" >
-            <div class="fes8-box-icon">
-              <div class="icon icon-basic-paperplane"></div>
-            </div>
-            <h3>Rp.1.788.977.320,-</h3>
-            <div>
-              Penyampaian Informasi Hasil
-              Pembangunan di Provinsi DKI Jakarta
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-xs-12 col-sm-4 col-md-4">
-        <div class="fes8-box wow fadeIn" data-wow-delay="600ms">
-          <div class="fes8-title-cont" >
-            <div class="fes8-box-icon">
-              <div class="icon icon-basic-paperplane"></div>
-            </div>
-            <h3>Rp.2.512.559.500,-</h3>
-            <div>
-              Peningkatan Kehumasan BNPB Melalui Radio
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="col-xs-12 col-sm-4 col-md-4">
-        <div class="fes8-box wow fadeIn" data-wow-delay="600ms">
-          <div class="fes8-title-cont" >
-            <div class="fes8-box-icon">
-              <div class="icon icon-basic-paperplane"></div>
-            </div>
-            <h3>Rp.1.567.685.460,-</h3>
-            <div>
-              Pekerjaan TV Magazine Jakarta Untuk Semua
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="col-xs-12 col-sm-4 col-md-4">
-        <div class="fes8-box wow fadeIn" data-wow-delay="1000ms">
-          <div class="fes8-title-cont" >
-            <div class="fes8-box-icon">
-              <div class="icon icon-basic-paperplane"></div>
-            </div>
-            <h3>Rp.1.300.683.950,-</h3>
-            <div>
-              Pemasangan Iklan Pariwisata Pada
-              Media Elektonik Dalam Negeri
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-xs-12 col-sm-4 col-md-4">
-        <div class="fes8-box wow fadeIn" data-wow-delay="800ms" >
-          <div class="fes8-title-cont" >
-            <div class="fes8-box-icon">
-              <div class="icon icon-basic-paperplane"></div>
-            </div>
-            <h3>Rp.740.500.000,-</h3>
-            <div>
-              Pembuatan Film Pengenalan Daya Tarik Wisata
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="col-xs-12 col-sm-4 col-md-4">
-        <div class="fes8-box wow fadeIn" data-wow-delay="800ms" >
-          <div class="fes8-title-cont" >
-            <div class="fes8-box-icon">
-              <div class="icon icon-basic-paperplane"></div>
-            </div>
-            <h3>Rp.710.380.000,-</h3>
-            <div>
-              Sosilisasi & Ujian Sertifikasi Keppress 80
-              Tahun 2003 Tentang Barang & Jasa,
-              Penyegaran Mutu SDM di Bidang PPNS
-              serta Penyegaran Mutu SDM di Bidang
-              Penegakan Hukum
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="col-xs-12 col-sm-4 col-md-4">
-        <div class="fes8-box wow fadeIn" data-wow-delay="800ms" >
-          <div class="fes8-title-cont" >
-            <div class="fes8-box-icon">
-              <div class="icon icon-basic-paperplane"></div>
-            </div>
-            <h3>Rp.1.375.030.000,-</h3>
-            <div>
-              Sabang Jass Festival
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-xs-12 col-sm-4 col-md-4">
-        <div class="fes8-box wow fadeIn" data-wow-delay="800ms" >
-          <div class="fes8-title-cont" >
-            <div class="fes8-box-icon">
-              <div class="icon icon-basic-paperplane"></div>
-            </div>
-            <h3>Rp.4.773.725.000,-</h3>
-            <div>
-              Penyelenggaraan Publikasi Media Elektronik
-              Publik Dalam Rangka Peningkatan
-              Pelayanan KPU/USO
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="col-xs-12 col-sm-4 col-md-4">
-        <div class="fes8-box wow fadeIn" data-wow-delay="800ms" >
-          <div class="fes8-title-cont" >
-            <div class="fes8-box-icon">
-              <div class="icon icon-basic-paperplane"></div>
-            </div>
-            <h3>Rp.2.950.832.500,-</h3>
-            <div>
-              Pengembangan dan Tayangan Film Untuk Remaja Tentang Perubahan Iklim
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="col-xs-12 col-sm-4 col-md-4">
-        <div class="fes8-box wow fadeIn" data-wow-delay="800ms" >
-          <div class="fes8-title-cont" >
-            <div class="fes8-box-icon">
-              <div class="icon icon-basic-paperplane"></div>
-            </div>
-            <h3>Rp.2.801.452.500,-</h3>
-            <div>
-              Penayangan Iklan Pariwisata & Budaya
-              di Media Elektronik Dalam Negeri
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-xs-12 col-sm-4 col-md-4">
-        <div class="fes8-box wow fadeIn" data-wow-delay="800ms" >
-          <div class="fes8-title-cont" >
-            <div class="fes8-box-icon">
-              <div class="icon icon-basic-paperplane"></div>
-            </div>
-            <h3>Rp.1.479.126.000,-</h3>
-            <div>
-              Penyelenggaraan Pengembangan
-              Konten Aplikasi Promosi Digital Portal
-              Ekonomi Kreatif Indonesia TA 2012
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="col-xs-12 col-sm-4 col-md-4">
-        <div class="fes8-box wow fadeIn" data-wow-delay="800ms" >
-          <div class="fes8-title-cont" >
-            <div class="fes8-box-icon">
-              <div class="icon icon-basic-paperplane"></div>
-            </div>
-            <h3>Rp.2.811.050.000,-</h3>
-            <div>
-              Produksi & Penayangan Profil Destinasi Golf
-              Jakarta & Sekitarnya di Media Elektronik/TV
-              Luar Negeri
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="col-xs-12 col-sm-4 col-md-4">
-        <div class="fes8-box wow fadeIn" data-wow-delay="800ms" >
-          <div class="fes8-title-cont" >
-            <div class="fes8-box-icon">
-              <div class="icon icon-basic-paperplane"></div>
-            </div>
-            <h3>Rp.5.198.316.750,-</h3>
-            <div>
-              Pelatihan Peningkatan Kapasitas Tenaga
-              Pendamping Desa Lot X (Region 10)
-              (Provinsi NTB, Sulawesi Utara & Sulawesi
-              Tenggara)
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-xs-12 col-sm-4 col-md-4">
-        <div class="fes8-box wow fadeIn" data-wow-delay="800ms" >
-          <div class="fes8-title-cont" >
-            <div class="fes8-box-icon">
-              <div class="icon icon-basic-paperplane"></div>
-            </div>
-            <h3>Rp.2.793.571.000,-</h3>
-            <div>
-              Pendukung Administrasi Penyelenggaraan
-              Angkutan Motor Gratis, Pada Masa Lebaran
-              Tahun 2017
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="col-xs-12 col-sm-4 col-md-4">
-        <div class="fes8-box wow fadeIn" data-wow-delay="800ms" >
-          <div class="fes8-title-cont" >
-            <div class="fes8-box-icon">
-              <div class="icon icon-basic-paperplane"></div>
-            </div>
-            <h3>Rp.1.798.249.200,-</h3>
-            <div>
-              Public Awarness Tentang Pentingnya Wilayah
-              Pesisir, Laut dan Pulau-Pulau Kecil
-              (WPLPPK) Sebagai Penggerak Ekonomi
-              Wilayah
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="col-xs-12 col-sm-4 col-md-4">
-        <div class="fes8-box wow fadeIn" data-wow-delay="800ms" >
-          <div class="fes8-title-cont" >
-            <div class="fes8-box-icon">
-              <div class="icon icon-basic-paperplane"></div>
-            </div>
-            <h3>Rp.7.986.825.000,-</h3>
-            <div>
-              Peningkatan Kapasitas Kehumasan BNPB Melalui Tayangan Televisi
+              Koordinasi dan Sinkronisasi Program Kegiatan Direktorat Jenderal Mineral dan Batubara
             </div>
           </div>
         </div>

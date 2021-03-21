@@ -41,16 +41,14 @@
             <a href="/"><div class="main-menu-title">HOME</div></a>
           </li>
           <!-- MENU ITEM -->
-          <li class="parent">
-            <a href="{{ url('about') }}"><div class="main-menu-title">ABOUT</div></a>
+          <li class="parent @yield('about')">
+            <a href="javascript:;"><div class="main-menu-title">ABOUT</div></a>
             <ul class="sub">
-            <li><a href="blog-full-width.html">PROFILE PERUSAHAAN</a></li>
-            <li><a href="blog-small-image.html">VISI & MISI</a></li>
-            <li><a href="blog-left-sidebar.html">JAJARAN DIREKSI</a></li>
-            <li><a href="blog-right-sidebar.html">SERTIFIKAT</a></li>
-            <li><a href="blog-right-sidebar.html">CLIENT</a></li>
-            <li><a href="blog-right-sidebar.html">MITRA KERJA</a></li>
-            <li><a href="blog-right-sidebar.html">CANGKUPAN WILAYAH</a></li>
+              <li><a href="{{ url('about#company') }}">COMPANY</a></li>
+              <li><a href="{{ url('about#visi-misi') }}">VISI & MISI</a></li>
+              <li><a href="{{ url('about#layanan') }}">LAYANAN</a></li>
+              <li><a href="{{ url('about#pengalaman') }}">PENGALAMAN</a></li>
+              <li><a href="{{ url('about#klien') }}">KLIEN</a></li>
             </ul>
           </li>
           <li class="parent">

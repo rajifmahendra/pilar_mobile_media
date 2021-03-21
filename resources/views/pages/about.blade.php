@@ -1,4 +1,5 @@
 @extends('layouts.index')
+@section('title', 'PT. PILAR MOBILE MEDIA')
 @section('content')
 <div class="page-section grey-light-bg clearfix" id="company">
   <div class="fes7-img-cont col-md-5">

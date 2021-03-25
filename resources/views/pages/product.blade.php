@@ -7,7 +7,7 @@
       <ul class="port-grid port-grid-gut clearfix" id="items-grid">
         <li class="port-item mix development">
           <a href="{{ url('product-detail/1') }}">
-            <div class="port-img-overlay"><img class="port-main-img" src="{{ asset('template/images/portfolio/projects-5-box.jpg') }}" alt="img" ></div>
+            <div class="port-img-overlay"><img class="port-main-img" src="{{ asset('template/html/images/portfolio/projects-5-box.jpg') }}" alt="img" ></div>
           </a>
           <div class="port-overlay-cont">
             <div class="port-title-cont">
@@ -15,7 +15,7 @@
               <span><a href="#">ui elements</a><span class="slash-divider">/</span><a href="#">media</a></span>
             </div>
             <div class="port-btn-cont">
-              <a href="{{ asset('template/images/portfolio/projects-5-box.jpg') }}" class="lightbox mr-20" ><div aria-hidden="true" class="icon_search"></div></a>
+              <a href="{{ asset('template/html/images/portfolio/projects-5-box.jpg') }}" class="lightbox mr-20" ><div aria-hidden="true" class="icon_search"></div></a>
               <a href="{{ url('product-detail/1') }}"><div aria-hidden="true" class="icon_link"></div></a>
             </div>
           </div>
@@ -23,7 +23,7 @@
         <li class="port-item mix design">
           <a href="{{ url('product-detail/1') }}">
             <div class="port-img-overlay">
-              <img class="port-main-img" src="{{ asset('template/images/portfolio/projects-5-box.jpg') }}" alt="img" >
+              <img class="port-main-img" src="{{ asset('template/html/images/portfolio/projects-5-box.jpg') }}" alt="img" >
             </div>
           </a>
           <div class="port-overlay-cont">
@@ -32,7 +32,7 @@
               <span><a href="#">photography</a><span class="slash-divider">/</span><a href="#">media</a></span>
             </div>
             <div class="port-btn-cont">
-              <a href="{{ asset('template/images/portfolio/projects-5-box.jpg') }}" class="lightbox mr-20" ><div aria-hidden="true" class="icon_search"></div></a>
+              <a href="{{ asset('template/html/images/portfolio/projects-5-box.jpg') }}" class="lightbox mr-20" ><div aria-hidden="true" class="icon_search"></div></a>
               <a href="{{ url('product-detail/1') }}"><div aria-hidden="true" class="icon_link"></div></a>
             </div>
           </div>
@@ -40,7 +40,7 @@
         <li class="port-item mix photography">
           <a href="{{ url('product-detail/1') }}">
             <div class="port-img-overlay">
-              <img class="port-main-img" src="{{ asset('template/images/portfolio/projects-5-box.jpg') }}" alt="img" >
+              <img class="port-main-img" src="{{ asset('template/html/images/portfolio/projects-5-box.jpg') }}" alt="img" >
             </div>
           </a>
           <div class="port-overlay-cont">
@@ -49,7 +49,7 @@
               <span><a href="#">branding</a><span class="slash-divider">/</span><a href="#">marketing</a></span>
             </div>
             <div class="port-btn-cont">
-              <a href="{{ asset('template/images/portfolio/projects-5-box.jpg') }}" class="lightbox mr-20" ><div aria-hidden="true" class="icon_search"></div></a>
+              <a href="{{ asset('template/html/images/portfolio/projects-5-box.jpg') }}" class="lightbox mr-20" ><div aria-hidden="true" class="icon_search"></div></a>
               <a href="{{ url('product-detail/1') }}"><div aria-hidden="true" class="icon_link"></div></a>
             </div>
           </div>
@@ -57,7 +57,7 @@
         <li class="port-item mix development">
           <a href="{{ url('product-detail/1') }}">
             <div class="port-img-overlay">
-              <img class="port-main-img" src="{{ asset('template/images/portfolio/projects-5-box.jpg') }}" alt="img" >
+              <img class="port-main-img" src="{{ asset('template/html/images/portfolio/projects-5-box.jpg') }}" alt="img" >
             </div>
           </a>
           <div class="port-overlay-cont">
@@ -66,7 +66,7 @@
               <span><a href="#">design</a><span class="slash-divider">/</span><a href="#">photography</a></span>
             </div>
             <div class="port-btn-cont">
-              <a href="{{ asset('template/images/portfolio/projects-5-box.jpg') }}" class="lightbox mr-20" ><div aria-hidden="true" class="icon_search"></div></a>
+              <a href="{{ asset('template/html/images/portfolio/projects-5-box.jpg') }}" class="lightbox mr-20" ><div aria-hidden="true" class="icon_search"></div></a>
               <a href="{{ url('product-detail/1') }}"><div aria-hidden="true" class="icon_link"></div></a>
             </div>
           </div>
@@ -74,7 +74,7 @@
         <li class="port-item mix development">
           <a href="{{ url('product-detail/1') }}">
             <div class="port-img-overlay">
-              <img class="port-main-img" src="{{ asset('template/images/portfolio/projects-5-box.jpg') }}" alt="img" >
+              <img class="port-main-img" src="{{ asset('template/html/images/portfolio/projects-5-box.jpg') }}" alt="img" >
             </div>
           </a>
           <div class="port-overlay-cont">
@@ -83,7 +83,7 @@
               <span><a href="#">design</a><span class="slash-divider">/</span><a href="#">photography</a></span>
             </div>
             <div class="port-btn-cont">
-              <a href="{{ asset('template/images/portfolio/projects-5-box.jpg') }}" class="lightbox mr-20" ><div aria-hidden="true" class="icon_search"></div></a>
+              <a href="{{ asset('template/html/images/portfolio/projects-5-box.jpg') }}" class="lightbox mr-20" ><div aria-hidden="true" class="icon_search"></div></a>
               <a href="{{ url('product-detail/1') }}"><div aria-hidden="true" class="icon_link"></div></a>
             </div>
           </div>
@@ -91,7 +91,7 @@
         <li class="port-item mix development">
           <a href="{{ url('product-detail/1') }}">
             <div class="port-img-overlay">
-              <img class="port-main-img" src="{{ asset('template/images/portfolio/projects-5-box.jpg') }}" alt="img" >
+              <img class="port-main-img" src="{{ asset('template/html/images/portfolio/projects-5-box.jpg') }}" alt="img" >
             </div>
           </a>
           <div class="port-overlay-cont">
@@ -100,7 +100,7 @@
               <span><a href="#">design</a><span class="slash-divider">/</span><a href="#">photography</a></span>
             </div>
             <div class="port-btn-cont">
-              <a href="{{ asset('template/images/portfolio/projects-5-box.jpg') }}" class="lightbox mr-20" ><div aria-hidden="true" class="icon_search"></div></a>
+              <a href="{{ asset('template/html/images/portfolio/projects-5-box.jpg') }}" class="lightbox mr-20" ><div aria-hidden="true" class="icon_search"></div></a>
               <a href="{{ url('product-detail/1') }}"><div aria-hidden="true" class="icon_link"></div></a>
             </div>
           </div>
@@ -108,7 +108,7 @@
         <li class="port-item mix design">
           <a href="{{ url('product-detail/1') }}">
             <div class="port-img-overlay">
-              <img class="port-main-img" src="{{ asset('template/images/portfolio/projects-5-box.jpg') }}" alt="img" >
+              <img class="port-main-img" src="{{ asset('template/html/images/portfolio/projects-5-box.jpg') }}" alt="img" >
             </div>
           </a>
           <div class="port-overlay-cont">
@@ -117,7 +117,7 @@
               <span><a href="#">ui elements</a><span class="slash-divider">/</span><a href="#">media</a></span>
             </div>
             <div class="port-btn-cont">
-              <a href="{{ asset('template/images/portfolio/projects-5-box.jpg') }}" class="lightbox mr-20" ><div aria-hidden="true" class="icon_search"></div></a>
+              <a href="{{ asset('template/html/images/portfolio/projects-5-box.jpg') }}" class="lightbox mr-20" ><div aria-hidden="true" class="icon_search"></div></a>
               <a href="{{ url('product-detail/1') }}"><div aria-hidden="true" class="icon_link"></div></a>
             </div>
           </div>
@@ -125,7 +125,7 @@
         <li class="port-item mix photography">
           <a href="{{ url('product-detail/1') }}">
             <div class="port-img-overlay">
-              <img class="port-main-img" src="{{ asset('template/images/portfolio/projects-5-box.jpg') }}" alt="img" >
+              <img class="port-main-img" src="{{ asset('template/html/images/portfolio/projects-5-box.jpg') }}" alt="img" >
             </div>
           </a>
           <div class="port-overlay-cont">
@@ -134,7 +134,7 @@
               <span><a href="#">branding</a><span class="slash-divider">/</span><a href="#">marketing</a></span>
             </div>
             <div class="port-btn-cont">
-              <a href="{{ asset('template/images/portfolio/projects-5-box.jpg') }}" class="lightbox mr-20" ><div aria-hidden="true" class="icon_search"></div></a>
+              <a href="{{ asset('template/html/images/portfolio/projects-5-box.jpg') }}" class="lightbox mr-20" ><div aria-hidden="true" class="icon_search"></div></a>
               <a href="{{ url('product-detail/1') }}"><div aria-hidden="true" class="icon_link"></div></a>
             </div>
           </div>

@@ -11,16 +11,15 @@
           </div>
           <div class="footer-2-text-cont">
             <address>
-              555 California str, Suite 100<br>
-              San&nbsp;Francisco, CA 94107
+             Jl. Cipto Mangunkusumo No.3<br>
+              Parung Serang&nbsp;Ciledug, Tangerang Banten 15153
             </address>
           </div>
           <div class="footer-2-text-cont">
-            1-800-312-2121<br>
-            1-800-310-1010
+            (021) 7333352
           </div>
           <div class="footer-2-text-cont">
-            <a class="a-text" href="mailto:info@haswell.com">info@haswell.com</a>
+            <a class="a-text" href="mailto:pilarmobilemedia@yahoo.com">pilarmobilemedia@yahoo.com</a>
           </div>
         </div>
         

@@ -32,7 +32,8 @@
               <!-- <div data-address="580 California Street, San Francisco, CA" id="google-map"></div> -->
 
           <!-- *This is an example of using latitude and longitude if you need to use them instead of an address. Read more in the documentation.* -->
-          <div data-latitude="37.792888" data-longitude="-122.404041" id="google-map"></div>
+          
+          <div data-latitude="-6.242570796070614" data-longitude="106.71651732024934" id="google-map"></div>
             </div>
           </div>
 
@@ -128,7 +129,8 @@
               </div>
               <div class="cis-text">
                 <h3><span class="bold">ADDRESS</span></h3>
-                <p>790 FOLSOM AVE, SAN FRANCISCO</p>
+                <p>Jl. Cipto Mangunkusumo No.3<br>
+                  Parung Serang&nbsp;Ciledug, Tangerang Banten 15153</p>
               </div>
             </div>
           </div>
@@ -139,7 +141,7 @@
               </div>
               <div class="cis-text">
                 <h3><span class="bold">EMAIL</span></h3>
-                <p><a href="mailto:info@haswell.com">INFO@HASWELL.COM</a></p>
+                <p><a href="mailto:pilarmobilemedia@yahoo.com">pilarmobilemedia@yahoo.com</a></p>
               </div>
             </div>
           </div>
@@ -150,7 +152,7 @@
               </div>
               <div class="cis-text">
                 <h3><span class="bold">CALL US</span></h3>
-                <p>1-800-312-212, 1-800-311-101</p>
+                <p>(021) 7333352</p>
               </div>
             </div>
           </div>

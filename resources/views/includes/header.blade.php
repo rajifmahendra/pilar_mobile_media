@@ -1,7 +1,7 @@
 <div class="header-transporent-bg-black">
 
     <!-- HEADER -->
-    <header id="nav" class="header header-1 black-header">
+    <header id="nav" class="header header-1 dark-grey-header">
         <div class="header-wrapper">
             <div class="container-m-30 clearfix">
                 <div class="logo-row">

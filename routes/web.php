@@ -20,13 +20,13 @@ Route::get('/', function (){
     return redirect('/home');
 });
 Route::get('/home', 'HomeController@index')->name('home');
-Route::get('/about', 'AboutController@index');
-Route::get('/contact', 'ContactController@index');
+Route::get('/about', 'AboutController@index')->name('about');
+Route::get('/contact', 'ContactController@index')->name('contact');
 Route::post('/contact', 'ContactController@store')->name('store.contact');
-Route::get('/gallery', 'GalleryController@index');
-Route::get('/product', 'ProductController@index');
+Route::get('/gallery', 'GalleryController@index')->name('gallery');
+Route::get('/product', 'ProductController@index')->name('product');
 Route::get('/product/{id?}', 'ProductController@detail');
-Route::get('/pricelist', 'PriceListController@index');
+Route::get('/pricelist', 'PriceListController@index')->name('pricelist');
 
 
 Auth::routes();

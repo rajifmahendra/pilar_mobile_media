@@ -26,73 +26,29 @@
         <div class="col-md-3 col-sm-3 widget">
           <h4>NAVIGATE</h4>
           <ul class="links-list bold a-text-cont">
-            <li><a href="index.html">HOME</a></li>
-            <li><a href="grid-system.html">GRID SYSTEM</a></li>
-            <li><a href="services.html">SERVICES</a></li>
-            <li><a href="index-portfolio.html">PORTFOLIO</a></li>
-            <li><a href="index-blog.html">BLOG</a></li>
-            <li><a href="index-shop.html">SHOP</a></li>
-            <li><a href="intro.html">PAGES</a></li>
+            <li><a href="{{ route('home') }}">HOME</a></li>
+            <li><a href="{{ route('about') }}">ABOUT</a></li>
+            <li><a href="{{ route('product') }}">PRODUCT</a></li>
+            <li><a href="{{ route('pricelist') }}l">PRICELIST</a></li>
+            <li><a href="{{ route('gallery') }}">GALLERY</a></li>
+            <li><a href="{{ route('contact') }}">CONTACT</a></li>
           </ul>
         </div>
         
         <div class="col-md-3 col-sm-3 widget">
           <h4>ABOUT US</h4>
           <ul class="links-list a-text-cont" >
-            <li><a href="about-us.html">COMPANY</a></li>
-            <li><a href="services.html">WHAT WE DO</a></li>
-            <li><a href="https://help.market.envato.com/hc/en-us">HELP CENTER</a></li>
-            <li><a href="http://themeforest.net/legal/market">TERMS OF SERVICE</a></li>
-            <li><a href="contact.html">CONTACT</a></li>
+            <li><a href="{{ url('about#company') }}">COMPANY</a></li>
+            <li><a href="{{ url('about#visi-misi') }}">VISI MISI</a></li>
+            <li><a href="{{ url('about#layanan') }}">LAYANAN</a></li>
+            <li><a href="{{ url('about#pengalaman') }}">PENGALAMAN</a></li>
+            <li><a href="{{ url('about#klien') }}">KLIEN</a></li>
           </ul>
         </div>
         
-        <div class="col-md-3 col-sm-3 widget">
-          <h4>RECENT POSTS</h4>
-          <div id="post-list-footer">
-
-            <div class="post-prev-title">
-              <h3><a class="a-text"  href="blog-single-sidebar-right.html">New trends in web design</a></h3>
-            </div>
-            <div class="post-prev-info">
-              Jule 10
-            </div>
-             
-            <div class="post-prev-title">
-              <h3><a class="a-text"  href="blog-single-sidebar-right.html">The sound of life</a></h3>
-            </div>
-            <div class="post-prev-info">
-              October 10
-            </div>
-             
-            <div class="post-prev-title">
-              <h3><a class="a-text"  href="blog-single-sidebar-right.html">Time for minimalism</a></h3>
-            </div>
-            <div class="post-prev-info">
-               September 21
-            </div>
-
-          </div>                  
-        </div>
+     
       </div>    
       
-      <div class="footer-2-copy-cont clearfix">
-        <!-- Social Links -->
-        <div class="footer-2-soc-a right">
-          <a href="https://1.envato.market/a1gQR" title="Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
-          <a href="https://1.envato.market/a1gQR" title="Twitter" target="_blank"><i class="fa fa-twitter"></i></a>
-          <a href="https://1.envato.market/a1gQR" title="Behance" target="_blank"><i class="fa fa-behance"></i></a>
-          <a href="https://1.envato.market/a1gQR" title="LinkedIn+" target="_blank"><i class="fa fa-linkedin"></i></a>
-          <a href="https://dribbble.com/abcgomel" title="Dribbble" target="_blank"><i class="fa fa-dribbble"></i></a>
-        </div>
-        
-        <!-- Copyright -->
-        <div class="left">
-          <a class="footer-2-copy" href="https://1.envato.market/a1gQR" target="_blank">&copy; HASWELL 2019</a>
-        </div>
-        
-
-      </div>
-              
+    
     </div>
   </footer>

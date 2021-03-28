@@ -1,5 +1,6 @@
 @extends('layouts.index')
 @section('title', 'PT. PILAR MOBILE MEDIA')
+@section('about', 'current')
 @section('content')
 <div class="page-section grey-light-bg clearfix" id="company">
   <div class="fes7-img-cont col-md-5">
@@ -10,10 +11,13 @@
       <div class="col-md-6 col-md-offset-6 fes7-text-cont p-80-cont">
         <h1><span class="font-light" style="color: black">TENTANG KAMI</span></h1>
         <p class="mb-30">
-          Berdiri Sejak 11 Februari 2016 PT. PIlAR MOBILE MEDIA Menyediakan Jasa Event Organizer, Mice(Meeting, Incentives, Conference, Exhibitions), Advertising, Talk Show. Dengan Kemampuan Multimedia Disetiap Bidangnya Yang Lain.
+          Berdiri sejak 11 Februari 2016 PT. PILAR MOBILE MEDIA Menyediakan Jasa Event Organizer, Mice (Meeting, Incentives, Conference, Exhibitions), Advertising, Talk Show. Dengan kemampuan Multimedia disetiap bidangnya yang lain.
+        </p>
+        <p class="mb-30">
+          Kami telah sangat berpengalaman dan expert dibidang ini serta memiliki team yang solid dan kreatif, karena team kami sudah ratusan kali menadakan event untuk perusahaan - perusahaan besar, baik di jakarta maupun di wilayah lainnya di indonesia.
         </p>
         <p>
-          Kami Telah Sangat Berpengalaman dan Expert Dibidang Ini Serta Memiliki Team Yang Solid dan Kreatif, Karena Team Kami Sudah Ratusan Kali Mengadakan Event Untuk Perusahaan - Perusahaan Besar Baik di Jakarta Maupun di Wilayah Lainnya di Indonesia. Team Kami Telah Dipercaya Oleh Banyak Perusahaan - Perusahaan Untuk Menangani Event - Event Yang Berskala Nasional Serta Karya dan Kreasi Kami Telah Dinilai Oleh Klien - Klient Kami Sangat Kreatif dan Fantastis, Sehingga Seluruh Klien Kami Merasa Puas dengan Pelayanan dan Kreativitas Team Kami.
+          Team kami telah dipercaya oleh banyak perusahaan - perusahaan untuk menangani event - event yang berskala nasional, serta karya dan kreasi kami telah dinilai oleh klien - klien kami sangat kreatif dan fantastis, sehingga seluruh klien kami merasa puas dengan pelayanan dan kreativitas team kami.
         </p>
       </div>
     </div>
@@ -30,7 +34,7 @@
           </div>
           <div class="line-3-70"></div>
           <div class="fes2-text-cont" style="font-size: 24px; line-height: 30px">
-            <span class="bold main-text-color">Visi</span> Menjadi Penyedia Produk Layanan Berkualitas Tinggi dan Layanan Dengan Harga Kompetitif, Berkomitmen Untuk Transparan dan Dapat Diandalkan Dipercaya Dalam Bekerja Kepada Semua Klien dan Pemangku Kepentingan
+            <span class="bold main-text-color">Visi</span> Menjadi penyedia produk layanan berkualitas tinggi dan layanan dengan harga kompetitif, berkomitmen untuk transparan dan dapat diandalkan dipercaya dalam bekerja kepada semua klien dan pemangku kepentingan.
           </div>
         </div>
       </div>
@@ -54,7 +58,7 @@
           </div>
           <div class="line-3-100"></div>
           <div class="fes2-text-cont" style="font-size: 24px; line-height: 30px">
-            <span class="bold main-text-color">Misi</span> Menjadi Perusahaan Yang Berkomitmen dan Selalu Menyediakan Layanan Terbaik dan Dapat Diandalkan di Indonesia Dari Bidang Yang Kami Sediakan Untuk Bekerja Sama Dengan Baik
+            <span class="bold main-text-color">Misi</span> Menjadi perusahaan yang berkomitmen dan selalu menyediakan layanan terbaik, lalu dapat diandalkan di indonesia dari bidang yang kami sediakan untuk bekerja sama dengan baik.
           </div>
         </div>
       </div>

@@ -1,12 +1,13 @@
 @extends('layouts.index')
 @section('title', 'PT. PILAR MOBILE MEDIA')
+@section('home', 'current')
 @section('content')
 
 <div id="about" class="page-section">
   <div class="container fes1-cont">
     <div class="row">
       <div class="col-md-4 fes1-img-cont wow fadeInUp mb-20">
-        <img src="images/phone-with-arrow.png" alt="img" >
+        {{-- <img src="/template/html/images/phone-with-arrow.png" alt="img" > --}}
       </div>
       <div class="col-md-8">
         <div class="row">
@@ -60,6 +61,7 @@
     </div>
   </div>
 </div> 
+<hr>
 <div class="page-section fes4-cont pb-0">
   <div class="container">
     <div class="row">
@@ -109,4 +111,5 @@
     </div>
   </div>
 </div>
+<hr>
 @endsection

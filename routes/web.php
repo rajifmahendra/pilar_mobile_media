@@ -19,7 +19,12 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function (){
     return redirect('/home');
 });
-Route::get('/home', 'HomeController@index')->name('home');
+
+
+
+Route::group(['prefix' => '/', 'namespace' => 'Frontend'], function(){
+   
+    Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/about', 'AboutController@index');
 Route::get('/contact', 'ContactController@index');
 Route::post('/contact', 'ContactController@store')->name('store.contact');
@@ -27,7 +32,7 @@ Route::get('/gallery', 'GalleryController@index');
 Route::get('/product', 'ProductController@index');
 Route::get('/product/{id?}', 'ProductController@detail');
 Route::get('/pricelist', 'PriceListController@index');
-
+});
 
 Auth::routes();
 

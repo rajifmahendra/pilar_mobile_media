@@ -145,5 +145,5 @@
 <script src="https://maps.google.com/maps/api/js?key=INSERT-YOUR-API-KEY-HERE"></script>
 <script src="{{ asset('template/html/js/gmap3.min.js') }}"></script>
 <script src="{{ asset('template/html/js/jquery.validate.min.js') }}"></script>
-<script src="{{ asset('template/html/js/contact-form-validation.js') }}"></script>  
+{{--<script src="{{ asset('template/html/js/contact-form-validation.js') }}"></script>--}}
 @endpush

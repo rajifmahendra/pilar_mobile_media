@@ -2,7 +2,7 @@
     <header id="nav" class="header header-1 black-header" style="background: #303236">
       <div class="header-wrapper">
         <div class="container-m-30 clearfix">
-          <div class="logo-row"> 
+          <div class="logo-row">
             <div class="logo-container-2" style="width: 200px">
               <div class="logo-2">
                 <a href="/" class="clearfix" style="color: #fff">
@@ -41,9 +41,9 @@
                     <li class="parent @yield('product')">
                       <a href="{{ url('product') }}"><div class="main-menu-title">PRODUCT</div></a>
                     </li>
-                    <li class="parent @yield('pricelist')">
-                      <a href="{{ url('pricelist') }}"><div class="main-menu-title">PRICELIST</div></a>
-                    </li>
+{{--                    <li class="parent @yield('pricelist')">--}}
+{{--                      <a href="{{ url('pricelist') }}"><div class="main-menu-title">PRICELIST</div></a>--}}
+{{--                    </li>--}}
                     <li class="parent @yield('gallery')">
                       <a href="{{ url('gallery') }}"><div class="main-menu-title">GALLERY</div></a>
                     </li>
@@ -81,5 +81,5 @@
           <div class="icon icon-arrows-down"></div>
         </a>
     </div>
-  </div>  
+  </div>
 </div>

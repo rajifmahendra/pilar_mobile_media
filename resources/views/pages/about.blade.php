@@ -11,13 +11,7 @@
       <div class="col-md-6 col-md-offset-6 fes7-text-cont p-80-cont">
         <h1><span class="font-light" style="color: black">TENTANG KAMI</span></h1>
         <p class="mb-30">
-          Berdiri sejak 11 Februari 2016 PT. PILAR MOBILE MEDIA Menyediakan Jasa Event Organizer, Mice (Meeting, Incentives, Conference, Exhibitions), Advertising, Talk Show. Dengan kemampuan Multimedia disetiap bidangnya yang lain.
-        </p>
-        <p class="mb-30">
-          Kami telah sangat berpengalaman dan expert dibidang ini serta memiliki team yang solid dan kreatif, karena team kami sudah ratusan kali menadakan event untuk perusahaan - perusahaan besar, baik di jakarta maupun di wilayah lainnya di indonesia.
-        </p>
-        <p>
-          Team kami telah dipercaya oleh banyak perusahaan - perusahaan untuk menangani event - event yang berskala nasional, serta karya dan kreasi kami telah dinilai oleh klien - klien kami sangat kreatif dan fantastis, sehingga seluruh klien kami merasa puas dengan pelayanan dan kreativitas team kami.
+            {{ isset($aboutContents['about_description'])?$aboutContents['about_description']:'' }}
         </p>
       </div>
     </div>
@@ -34,7 +28,7 @@
           </div>
           <div class="line-3-70"></div>
           <div class="fes2-text-cont" style="font-size: 24px; line-height: 30px">
-            <span class="bold main-text-color">Visi</span> Menjadi penyedia produk layanan berkualitas tinggi dan layanan dengan harga kompetitif, berkomitmen untuk transparan dan dapat diandalkan dipercaya dalam bekerja kepada semua klien dan pemangku kepentingan.
+            <span class="bold main-text-color">Visi</span> {{ isset($aboutContents['about_visi'])?$aboutContents['about_visi']:'' }}
           </div>
         </div>
       </div>
@@ -58,7 +52,7 @@
           </div>
           <div class="line-3-100"></div>
           <div class="fes2-text-cont" style="font-size: 24px; line-height: 30px">
-            <span class="bold main-text-color">Misi</span> Menjadi perusahaan yang berkomitmen dan selalu menyediakan layanan terbaik, lalu dapat diandalkan di indonesia dari bidang yang kami sediakan untuk bekerja sama dengan baik.
+            <span class="bold main-text-color">Misi</span> {{ isset($aboutContents['about_misi'])?$aboutContents['about_misi']:'' }}
           </div>
         </div>
       </div>
@@ -188,18 +182,23 @@
   <div class="row">
     <div class="col-md-12">
       <div id="owl-clients" class="owl-carousel our-clients-cont">
-        <div class="item"><img src="{{ asset('images/bekraf.png') }}" alt="client"></div>
-        <div class="item"><img src="{{ asset('images/bkkbn.jpg') }}" alt="client"></div>
-        <div class="item"><img src="{{ asset('images/dewan-iklim.jpg') }}" alt="client"></div>
-        <div class="item"><img src="{{ asset('images/dishub.png') }}" alt="client"></div>
-        <div class="item"><img src="{{ asset('images/jakarta-raya.png') }}" alt="client"></div>
-        <div class="item"><img src="{{ asset('images/kementrian-desa.png') }}" alt="client"></div>
-        <div class="item"><img src="{{ asset('images/kementrian-koperasi.jpg') }}" alt="client"></div>
-        <div class="item"><img src="{{ asset('images/kementrian-negri.png') }}" alt="client"></div>
-        <div class="item"><img src="{{ asset('images/kominfo.png') }}" alt="client"></div>
-        <div class="item"><img src="{{ asset('images/unknown.png') }}" alt="client"></div>
+          @if($clients->IsNotEmpty())
+              @foreach($clients as $client)
+                  <div class="item">
+                      <a href="{{ $client->media_link }}">
+                          <div class="port-img-overlay"><img class="port-main-img" style="height: 100px" src="{{ $client->media_link }}" alt="img"></div>
+                      </a>
+                      <a href="{{ $client->media_link }}" class="lightbox mr-20">
+                          <div class="port-overlay-cont">
+                              <div class="port-btn-cont"></div>
+                          </div>
+                      </a>
+                      <p>{{ $client->name }}</p>
+                  </div>
+              @endforeach
+          @endif
       </div>
-    </div> 
-  </div>        
+    </div>
+  </div>
 </div>
 @endsection

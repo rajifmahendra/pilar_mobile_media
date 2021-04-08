@@ -8,7 +8,7 @@
 <link rel="stylesheet" href="{{ asset('template/html/css/owl-carousel/owl.theme.css') }}">
 <link rel="stylesheet" href="{{ asset('template/html/css/owl-carousel/owl.transitions.css') }}">
 <link rel="stylesheet" href="{{ asset('template/html/css/icons-fonts.css') }}">
-<link rel="stylesheet" href="{{ asset('template/html/css/style.css') }}" >	
+<link rel="stylesheet" href="{{ asset('template/html/css/style.css') }}" >
 <link rel='stylesheet' href="{{ asset('template/html/css/animate.min.css') }}">
 <script src="/template/html/js/modernizr.js"></script>
 <style>

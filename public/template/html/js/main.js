@@ -640,7 +640,7 @@ function initMap(){
               //address: gmMarkerAddress,  //The option to specify the address instead of latitude and longitude. Read more in the documentation.
               latLng:[gmLat, gmLong], 
               options: {
-                  icon: "images/loc-marker.png"
+                  icon: "/template/html/images/loc-marker.png"
               }
           },
           map: {

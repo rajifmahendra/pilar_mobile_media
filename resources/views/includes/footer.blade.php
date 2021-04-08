@@ -5,91 +5,51 @@
       
         <div class="col-md-3 col-sm-3 widget">
           <div class="logo-footer-cont">
-            <a href="index.html">
-              <img class="logo-footer" src="images/logo-footer.png" alt="logo">
+            <a href="/" class="bold">
+              PT. PILAR MOBILE MEDIA
             </a>
           </div>
           <div class="footer-2-text-cont">
             <address>
-              555 California str, Suite 100<br>
-              San&nbsp;Francisco, CA 94107
+              Jl. Cipto Mangunkusumo No.3, RT.001/RW.006, Parung Serab, Kec. Ciledug, Kota Tangerang, Banten 15153
             </address>
           </div>
           <div class="footer-2-text-cont">
-            1-800-312-2121<br>
-            1-800-310-1010
+            021 - 7333352
           </div>
           <div class="footer-2-text-cont">
-            <a class="a-text" href="mailto:info@haswell.com">info@haswell.com</a>
+            <p><a href="mailto:pilarmobilemedia@yahoo.com">pilarmobilemedia@yahoo.com</a></p>
           </div>
         </div>
-        
-        <div class="col-md-3 col-sm-3 widget">
-          <h4>NAVIGATE</h4>
-          <ul class="links-list bold a-text-cont">
-            <li><a href="index.html">HOME</a></li>
-            <li><a href="grid-system.html">GRID SYSTEM</a></li>
-            <li><a href="services.html">SERVICES</a></li>
-            <li><a href="index-portfolio.html">PORTFOLIO</a></li>
-            <li><a href="index-blog.html">BLOG</a></li>
-            <li><a href="index-shop.html">SHOP</a></li>
-            <li><a href="intro.html">PAGES</a></li>
-          </ul>
-        </div>
-        
+        <div class="col-md-3 col-sm-3 widget"></div>
         <div class="col-md-3 col-sm-3 widget">
           <h4>ABOUT US</h4>
           <ul class="links-list a-text-cont" >
-            <li><a href="about-us.html">COMPANY</a></li>
-            <li><a href="services.html">WHAT WE DO</a></li>
-            <li><a href="https://help.market.envato.com/hc/en-us">HELP CENTER</a></li>
-            <li><a href="http://themeforest.net/legal/market">TERMS OF SERVICE</a></li>
-            <li><a href="contact.html">CONTACT</a></li>
+            <li><a href="/about#company">COMPANY</a></li>
+            <li><a href="/about#visi-misi">VISI & MISI</a></li>
+            <li><a href="/about#layanan">LAYANAN</a></li>
+            <li><a href="/about#pengalaman">PENGALAMAN</a></li>
+            <li><a href="/about#klien">KLIEN</a></li>
           </ul>
         </div>
-        
         <div class="col-md-3 col-sm-3 widget">
-          <h4>RECENT POSTS</h4>
-          <div id="post-list-footer">
-
-            <div class="post-prev-title">
-              <h3><a class="a-text"  href="blog-single-sidebar-right.html">New trends in web design</a></h3>
-            </div>
-            <div class="post-prev-info">
-              Jule 10
-            </div>
-             
-            <div class="post-prev-title">
-              <h3><a class="a-text"  href="blog-single-sidebar-right.html">The sound of life</a></h3>
-            </div>
-            <div class="post-prev-info">
-              October 10
-            </div>
-             
-            <div class="post-prev-title">
-              <h3><a class="a-text"  href="blog-single-sidebar-right.html">Time for minimalism</a></h3>
-            </div>
-            <div class="post-prev-info">
-               September 21
-            </div>
-
-          </div>                  
+          <h4>NAVIGATE</h4>
+          <ul class="links-list bold a-text-cont">
+            <li><a href="/">HOME</a></li>
+            <li><a href="/about">ABOUT</a></li>
+            <li><a href="/product">PRODUCT</a></li>
+            <li><a href="/pricelist">PRICELIST</a></li>
+            <li><a href="/gallery">GALLERY</a></li>
+            <li><a href="/contact">CONTACT</a></li>
+          </ul>
         </div>
       </div>    
       
       <div class="footer-2-copy-cont clearfix">
-        <!-- Social Links -->
-        <div class="footer-2-soc-a right">
-          <a href="https://1.envato.market/a1gQR" title="Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
-          <a href="https://1.envato.market/a1gQR" title="Twitter" target="_blank"><i class="fa fa-twitter"></i></a>
-          <a href="https://1.envato.market/a1gQR" title="Behance" target="_blank"><i class="fa fa-behance"></i></a>
-          <a href="https://1.envato.market/a1gQR" title="LinkedIn+" target="_blank"><i class="fa fa-linkedin"></i></a>
-          <a href="https://dribbble.com/abcgomel" title="Dribbble" target="_blank"><i class="fa fa-dribbble"></i></a>
-        </div>
         
         <!-- Copyright -->
-        <div class="left">
-          <a class="footer-2-copy" href="https://1.envato.market/a1gQR" target="_blank">&copy; HASWELL 2019</a>
+        <div class="right">
+          <a class="footer-2-copy" href="/" target="_blank">&copy; PT. PILAR MOBILE MEDIA 2021</a>
         </div>
         
 

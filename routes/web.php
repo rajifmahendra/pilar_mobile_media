@@ -16,17 +16,19 @@ use Illuminate\Support\Facades\Route;
 // Route::get('/', function () {
 //     return view('welcome');
 // });
-Route::group(['prefix' => '/', 'namespace' => 'Frontend'], function(){
-   
-    Route::get('/', 'HomeController@index')->name('home');
-    Route::get('/about', 'AboutController@index')->name('about');
-    Route::get('/product', 'ProductController@index')->name('product');
-    Route::get('/pricelist', 'PricelistController@index')->name('pricelist');
-    Route::get('/gallery', 'GalleryController@index')->name('gallery');
-    Route::get('/contact', 'ContactController@index')->name('contact');
+Route::get('/', function (){
+    return redirect('/home');
 });
 
 
-Auth::routes();
 
-Route::get('/home', 'HomeController@index')->name('home');
+Route::group(['prefix' => '/', 'namespace' => 'Frontend'], function() {
+    Route::get('/home', 'HomeController@index')->name('home');
+    Route::get('/about', 'AboutController@index')->name('about');
+    Route::get('/contact', 'ContactController@index')->name('contact');
+    Route::post('/contact', 'ContactController@store')->name('store.contact');
+    Route::get('/gallery', 'GalleryController@index')->name('gallery');
+    Route::get('/product', 'ProductController@index')->name('product');
+    Route::get('/product/{id?}', 'ProductController@detail');
+    Route::get('/pricelist', 'PricelistController@index');
+});
